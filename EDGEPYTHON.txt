@@ -1,0 +1,30 @@
+
+
+1)
+ 	 arr=["git","python","data science","iot"]
+	if "iot" in arr:
+    		print("yes")
+	else:
+    	print("no")
+    
+	for i in arr:
+    	if i=="iot"
+    	print("yes")
+
+2)
+	l=[22,45,33,45,21,19,19,13,22,45]
+	print(l.count(45))
+
+	count=0
+	l=[22,45,33,45,21,19,19,13,22,45]
+	for i in range:
+   		if i==45:
+        	count=count+1
+	print(count)
+
+3)
+l=[]
+for i in range(1,6):
+    n=int(input("enter a num:"))
+    l.append(n)
+    print(l)
